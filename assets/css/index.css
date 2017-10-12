@@ -4,10 +4,16 @@ body {
 }
 
 h1 {
-    color: #1E90FF;
+    color: #6C3483;
     margin: 0;
     padding: 0 10px;
     line-height: 60px;
+    font-family: Garamond, "Times New Roman", serif;
+}
+
+h2 {
+   color: #229954;
+   font-family: Garamond, "Times New Roman", serif;
 }
 
 nav {
